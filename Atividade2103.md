@@ -21,5 +21,5 @@
 
 # REGRAS DO SISTEMA
 
-##
+## 1- 
 
